@@ -4,7 +4,7 @@
     Github API
 </h1>
 
-App built with React to consume github API.<br>
+App built with React to consume Github API.<br>
 Search for "user/repository" and show's the issues from that repository.
 
 
