@@ -11,7 +11,7 @@ Search for "user/repository" and show's the issues from that repository.
 ## :eyes: Preview
 
 <p align="center">
-  <img alt="Demo" src="https://media.giphy.com/media/chtVkAN823VUYsJej3/giphy.gif>
+  <img alt="Demo" src="https://media.giphy.com/media/chtVkAN823VUYsJej3/giphy.gif">
 </p>
 
 
